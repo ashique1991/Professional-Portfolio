@@ -64,6 +64,18 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 ### 6. District Boundary Map
 ![Boundary Map](./screenshots/6.jpg)
 
+### 7. Admin Login Page
+![Boundary Map](./screenshots/Login Page.jpg)
+
+### 8. Admin Dashboard
+![Boundary Map](./screenshots/Admin Dashboard.jpg)
+
+### 9. School Overview Dashboard
+![Boundary Map](./screenshots/School Overview.jpg)
+
+### 10. School Level Projection Dashboard
+![Boundary Map](./screenshots/School Projection.jpg)
+
 ---
 ## 🧠 Methodology
 
