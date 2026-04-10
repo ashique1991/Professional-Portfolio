@@ -65,16 +65,16 @@ I am an Economics graduate (MSS) currently working as a Data Analyst for a Calif
 ![Boundary Map](./screenshots/6.jpg)
 
 ### 7. Admin Login Page
-![Admin Login](./screenshots/Login Page.jpg)
+![Admin Login](./screenshots/Login-Page.jpg)
 
 ### 8. Admin Dashboard
-![Admin Dashboard](./screenshots/Admin Dashboard.jpg)
+![Admin Dashboard](./screenshots/Admin-Dashboard.jpg)
 
 ### 9. School Overview Dashboard
-![School Overview](./screenshots/School Overview.jpg)
+![School Overview](./screenshots/School-Overview.jpg)
 
 ### 10. School Level Projection Dashboard
-![School Level projection](./screenshots/School Projection.jpg)
+![School Level projection](./screenshots/School-Projection.jpg)
 
 ---
 ## 🧠 Methodology
